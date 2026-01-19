@@ -263,7 +263,7 @@ powerboost_country:
   pattern: "{timestamp} Powerboost to {country} {details}"
 
 # ===========================
-# Meteore
+# Meteor
 # ===========================
 meteor_spawn:
   pattern: "{timestamp} METEOR SPAWNED IN {details}"
